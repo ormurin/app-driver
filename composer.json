@@ -1,0 +1,17 @@
+{
+    "name": "ormurin/app-driver",
+    "description": "Scaffold for small web applications.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ormurin\\AppDriver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damir"
+        }
+    ],
+    "require": {}
+}
